@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Kmx+0IPDvBPZpzocMvtGA2lX35IS4VCjxANLNOqWp80PUWOgkKqdHL7A8ihYk5iwR5CU3QNSLv4K/IUq2uCQQQ==",
+  "dgSpecHash": "CnCk/xLgriQjzoYMYKOJZfttaXoRc3CiLVy4zrvSdewJFt3hFJL+YZ1XUYEZFGyj/L+6n3QX3LBmVFOwV6kxuw==",
   "success": true,
   "projectFilePath": "/usr/local/share/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/remingtonewing/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
     "/Users/remingtonewing/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/remingtonewing/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/remingtonewing/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.3/microsoft.netcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
     "/Users/remingtonewing/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.3/microsoft.aspnetcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
     "/Users/remingtonewing/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/8.0.3/microsoft.netcore.app.crossgen2.osx-x64.8.0.3.nupkg.sha512"

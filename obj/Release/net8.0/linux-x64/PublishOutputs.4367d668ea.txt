@@ -3,4 +3,5 @@
 /usr/local/share/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
 /usr/local/share/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
 /usr/local/share/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/usr/local/share/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Newtonsoft.Json.dll
 /usr/local/share/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll
